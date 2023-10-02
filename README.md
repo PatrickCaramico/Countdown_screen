@@ -51,6 +51,6 @@ CSS
 
 # Project Link
 **Link to acess the project;**
-https://patrickcaramico.github.io/Countdown_screen/
+https://meu-contagemregressiva.netlify.app/
 
 
